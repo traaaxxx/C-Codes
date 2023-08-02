@@ -1,7 +1,7 @@
 //program to add two numbers and display it
 
 #include <stdio.h>
-int main ()
+int main()
 {
 	int a, b, sum;
 	printf("Enter the Integers - ");
